@@ -5,7 +5,8 @@
 body{
     margin:0 ;
     padding: 0;
-    background-color: blueviolet;
+    
+    background-color:rgb(174, 107, 237) ;
     display: grid;
     place-items:  center;}
     
@@ -29,7 +30,7 @@ body{
     grid-template-columns:repeat(2,1fr) ;
     grid-auto-rows: minmax(200px,auto);
     gap: 2rem;
-    background-color: rgb(144, 27, 235);
+    background-color: rgb(131, 4, 228);
 }
 .skills{
   padding: 0;
