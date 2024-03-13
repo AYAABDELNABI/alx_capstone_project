@@ -1,4 +1,4 @@
-Of course, here's the translation into English:
+
 
 "I am Aya Abdelnabi iam  graduated from alx Through my academic and professional experience, I have gained strong leadership and analytical skills. I always strive for success in my field, seeking to challenge myself and continuously develop my skills. Alongside hard work, I consider balancing personal and professional life essential, and I enjoy spending my time reading and practicing sports."
 
