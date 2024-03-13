@@ -13,11 +13,11 @@ Technologies Used:
 HTML
 CSS
 JavaScript
-Flask
+
 ---------------------------------------------------------
 File Structure
-ALX-Capstone_Project ├── static/ │ ├── css/ | │ └── styles.css | └── js/ | └── index.js ├── templates/ │ ├── index.html │
-├── app.py
+ALX-Capstone_Project 
+
 -----------------------------------------------------------------
 Screenshots or Demo:
 Following are screenshots for website prtotype and flowchart.
